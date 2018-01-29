@@ -1,0 +1,5 @@
+D:\Git\xzc\MyProject\xzc.Infrastructure\bin\Debug\xzc.Infrastructure.dll
+D:\Git\xzc\MyProject\xzc.Infrastructure\bin\Debug\xzc.Infrastructure.pdb
+D:\Git\xzc\MyProject\xzc.Infrastructure\obj\Debug\xzc.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Git\xzc\MyProject\xzc.Infrastructure\obj\Debug\xzc.Infrastructure.dll
+D:\Git\xzc\MyProject\xzc.Infrastructure\obj\Debug\xzc.Infrastructure.pdb
